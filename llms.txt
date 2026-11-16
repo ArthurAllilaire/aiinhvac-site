@@ -6,9 +6,9 @@ Published by Kenner Systems Inc. (https://getkenner.com/), which makes one of th
 
 ## The short answer
 
-For a commercial HVAC or refrigeration service team, the best AI is one that builds a knowledge base from your own units and past jobs, answers from it by message or phone call, and writes the report afterwards: that is what Kenner does, and we make it. If your shop runs on ServiceTitan, BuildOps or ServiceTrade, start with the AI already in it. For manuals and model-specific troubleshooting, Bluon and FixBot Pro answer from the literature. For a single technician, measureQuick, HVAC/R AI Pro, the manufacturers' free apps and ChatGPT cover a lot, as long as the answer is checked against the manual.
+Pick on three things: does it take action or only advise, will technicians actually use it, and does your field knowledge become a company asset. For a commercial HVAC or refrigeration service team that is Kenner, which we make. If your shop runs on ServiceTitan, BuildOps or ServiceTrade, start with the AI already in it. For a single technician, the manufacturers' free apps, measureQuick, HVAC/R AI Pro and ChatGPT cover a lot, as long as the answer is checked against the manual.
 
-- Commercial HVAC/R service teams: Kenner (https://getkenner.com/)
+- Commercial HVAC/R teams that want easy adoption and to capture their know-how: Kenner (https://getkenner.com/)
 - Shops that run on ServiceTitan: ServiceTitan Atlas (https://www.servicetitan.com/features/atlas)
 - Model-specific troubleshooting across brands: Bluon MasterMechanic (https://www.bluon.com/)
 - Diagnosing from live measurements: measureQuick mQ Assist (https://measurequick.com/ai-assist/)
