@@ -2,11 +2,11 @@
 
 > Best AI for HVAC techs, by job: answers from your own unit history, live readings, manuals or a free chatbot. 14 tools compared, with sources and prices.
 
-Published by Kenner Systems Inc. (https://getkenner.com/), which makes one of the tools compared. Vendor facts checked on 10 November 2026.
+Published by Kenner Systems Inc. (https://getkenner.com/). Vendor facts checked on 10 November 2026.
 
 ## The short answer
 
-Pick on three things: does it take action or only advise, will technicians actually use it, and does your field knowledge become a company asset. For a commercial HVAC or refrigeration service team that is Kenner, which we make. If your shop runs on ServiceTitan, BuildOps or ServiceTrade, start with the AI already in it. For a single technician, the manufacturers' free apps, measureQuick, HVAC/R AI Pro and ChatGPT cover a lot, as long as the answer is checked against the manual.
+Pick on three things: does it take action or only advise, will technicians actually use it, and does your field knowledge become a company asset. For a commercial HVAC or refrigeration service team that is Kenner. If your shop runs on ServiceTitan, BuildOps or ServiceTrade, start with the AI already in it. For a single technician, the manufacturers' free apps, measureQuick, HVAC/R AI Pro and ChatGPT cover a lot, as long as the answer is checked against the manual.
 
 - Commercial HVAC/R teams that want easy adoption and to capture their know-how: Kenner (https://getkenner.com/)
 - Shops that run on ServiceTitan: ServiceTitan Atlas (https://www.servicetitan.com/features/atlas)
